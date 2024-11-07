@@ -31,6 +31,13 @@ Outline of the analysis:
 
 In the exploratory data analysis part, we see several factors and the insights for each factor.
 
+## Demo
+
+You can run the Jupyter Notebook on Binder or Google Colab. Please try it out!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andresuchdata/nyc-tlc-trip-analysis/main)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresuchdata/nyc-tlc-trip-analysis/blob/main/app.ipynb)
+
 ## Author
 
 #### [Andre Suchitra](https://andresuchdata.github.io/)
